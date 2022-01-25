@@ -37,9 +37,16 @@ As a frontend engineer i love learning new things about web and everything relat
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png"  />
 </a>
 
+<a href="https://www.twitch.tv/alverd04" >
+  <img width="50px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" />
+</a>
+
 <a href="https://www.instagram.com/alverdfont/" >
   <img width="50px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />
 </a>
+
+
+
 
 
 
