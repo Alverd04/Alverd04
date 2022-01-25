@@ -4,7 +4,7 @@
 </p>
 
 ### Welcome👋
-My name is Albert and I'm a 21 year old software developer currently working at Adevinta 💙 as a Frontend Engineer.
+My name is Albert and I'm a 21 year old software developer currently working at Adevinta 💙 as a Frontend Engineer. Sometimes I like to stream while I work on my own projects and try to share my knowledge with everyone. I'm also a huge fan of open source projects and I like to contribute to them as often as I can!
 
 ## My stack
 This is a list featuring all the programming languages and frameworks I feel confortable working with ^^
@@ -28,6 +28,7 @@ This is a list featuring all the programming languages and frameworks I feel con
 
 As a frontend engineer i love learning new things about web and everything related to it. But, it doesn't mean i'm not interested in other technologies such as mobile development or game development. 
 
+
 ## Social media 
 <a href="https://www.linkedin.com/in/albert-font-fernandez/">
   <img width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -50,17 +51,4 @@ As a frontend engineer i love learning new things about web and everything relat
 
 
 
-<!--
-**Alverd04/Alverd04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
