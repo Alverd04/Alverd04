@@ -1,8 +1,9 @@
-### Welcome👋
+
 <p align="center">
   <img src="https://media1.giphy.com/media/6PHOjjCoNoM3S/giphy.gif" />
 </p>
 
+### Welcome👋
 My name is Albert and I'm a 21 year old software developer currently working at Adevinta 💙 as a Frontend Engineer.
 
 ## My stack
