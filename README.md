@@ -17,7 +17,7 @@ This is a list featuring all the programming languages and frameworks I feel con
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
   <img height="50px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />
-   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" />
+   <img height="50px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />
    <img height="50px" src="https://midu.dev/images/tags/node.png" />
    <img height="50px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
