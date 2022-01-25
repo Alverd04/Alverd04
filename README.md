@@ -20,7 +20,7 @@ This is a list featuring all the programming languages and frameworks I feel con
    <img height="50px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />
    <img height="50px" src="https://midu.dev/images/tags/node.png" />
    <img height="50px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
+   <img height="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 </div>
 
