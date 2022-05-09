@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/6PHOjjCoNoM3S/giphy.gif" />
-</p>
-
 ### Welcome👋
 My name is Albert and I'm a 21 year old software developer currently working at Adevinta 💙 as a Frontend Engineer. Sometimes I like to stream while I work on my own projects and try to share my knowledge with everyone. I'm also a huge fan of open source projects and I like to contribute to them as often as I can!
 
