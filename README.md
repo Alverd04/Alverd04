@@ -21,8 +21,7 @@ This is a list featuring all the programming languages and frameworks I feel con
 
 ## What am I interested in? 
 
-As a frontend engineer i love learning new things about web and everything related to it. But, it doesn't mean i'm not interested in other technologies such as mobile development or game development. 
-
+As a Frontend Engineer i love learning new things about web and everything related to mobile, web and other platforms such as AI. Don't hesitate to let me know some new technologies you've heard about! I'll be glad to have a virtual coffe :D 
 
 ## Social media 
 <a href="https://www.linkedin.com/in/albert-font-fernandez/">
