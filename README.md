@@ -1,5 +1,5 @@
 ### Welcome👋
-My name is Albert and I'm a 22 year old software developer currently working at Adevinta 💙 as a Frontend Engineer. Sometimes I like to stream while I work on my own projects and try to share my knowledge with everyone. I'm also a huge fan of open source projects and I like to contribute to them as often as I can!
+My name is Albert and I'm a 22 year old software developer currently working at Adevinta 💙 as a Senior Frontend Engineer. Sometimes I like to stream while I work on my own projects and try to share my knowledge with everyone. I'm also a huge fan of open source projects and I like to contribute to them as often as I can!
 
 ## My stack
 This is a list featuring all the programming languages and frameworks I feel confortable working with ^^
