@@ -6,18 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-</div>
-
----
-
-## 🚀 About Me
-
-Passionate Frontend Engineer with 6 years of hands-on expertise in building responsive, user-friendly web applications. Proficient in modern frontend technologies such as HTML5, CSS3, JavaScript (ES6+), and popular frameworks like React.js and NextJS. Experienced in translating UI/UX designs into high-quality code, optimizing application performance, and ensuring cross-browser compatibility. 
-Skilled in version control systems (Git), package managers (npm, Yarn), and build tools (Webpack, Babel). Strong advocate for best practices in web development, including accessibility standards and responsive design principles. 
-Collaborative team player with excellent communication skills and a proactive problem-solving mindset. Eager to leverage my skills and experience to contribute to innovative projects and drive impactful results in a dynamic engineering environment. 💡 Let's connect to discuss frontend development opportunities and explore how I can add value to your team or project! 🚀
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
