@@ -12,18 +12,9 @@
 
 ## 🚀 About Me
 
-\`\`\`javascript
-const developer = {
-    name: "Albert",
-    location: "Your City, Country",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "Python", "TypeScript", "Java"],
-    frameworks: ["React", "Node.js", "Next.js", "Express"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    currentFocus: "Building amazing web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-\`\`\`
+Passionate Frontend Engineer with 6 years of hands-on expertise in building responsive, user-friendly web applications. Proficient in modern frontend technologies such as HTML5, CSS3, JavaScript (ES6+), and popular frameworks like React.js and NextJS. Experienced in translating UI/UX designs into high-quality code, optimizing application performance, and ensuring cross-browser compatibility. 
+Skilled in version control systems (Git), package managers (npm, Yarn), and build tools (Webpack, Babel). Strong advocate for best practices in web development, including accessibility standards and responsive design principles. 
+Collaborative team player with excellent communication skills and a proactive problem-solving mindset. Eager to leverage my skills and experience to contribute to innovative projects and drive impactful results in a dynamic engineering environment. 💡 Let's connect to discuss frontend development opportunities and explore how I can add value to your team or project! 🚀
 
 ---
 
