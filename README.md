@@ -59,32 +59,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alverd04&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Alverd04/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alverd04&repo=PROJECT_1&theme=radical&hide_border=true" alt="Project 1" />
-</a>
-
-<a href="https://github.com/Alverd04/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alverd04&repo=PROJECT_2&theme=radical&hide_border=true" alt="Project 2" />
-</a>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -119,30 +93,13 @@
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-  
-### 🐍 Watch my contributions get eaten by the snake!
-
-<img src="https://raw.githubusercontent.com/Alverd04/Alverd04/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
 <div align="center">
   
 ## 💖 Support My Work
 
 If you like what I do, maybe consider buying me a coffee? 🥺👉👈
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alverd)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME)
 
 </div>
@@ -154,8 +111,6 @@ If you like what I do, maybe consider buying me a coffee? 🥺👉👈
 ### 👀 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=Alverd04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-### ⭐ From Albert
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
